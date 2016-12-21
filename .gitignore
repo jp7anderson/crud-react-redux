@@ -1,0 +1,12 @@
+/node_modules
+bundle.js
+npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
+.env
+
+src/styles/css/3rd-party.css
+
+src/styles/css/3rd-party.css.map
